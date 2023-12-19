@@ -6,4 +6,4 @@ In order to incorporate the unsteady aerodynamics into the model, we utilize The
 
 Once these equations were built, they are setup into a State Space Model, which reduces the order of the system to solve. 
 
-Further details and equations are present in the theory file.
+Structure details and equation derivation details are present in the theory file.
